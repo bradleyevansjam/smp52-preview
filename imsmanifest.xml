@@ -22,11 +22,11 @@
   <resources>
     <resource identifier="RES-1" type="webcontent" adlcp:scormtype="sco" href="index.html">
       <file href="index.html"/>
+      <file href="brand/afc-logo-dark-green-800.png"/>
       <file href="brand/afc27-start-picture.jpg"/>
-      <file href="brand/fonts/ArchivoNarrow[wght].ttf"/>
-      <file href="brand/fonts/SourceSans3[wght].ttf"/>
-      <file href="brand/jam-training-primary.png"/>
-      <file href="brand/jam-training-white.png"/>
+      <file href="brand/fonts/Ubuntu-Light.ttf"/>
+      <file href="brand/fonts/Ubuntu-Medium.ttf"/>
+      <file href="brand/fonts/Ubuntu-Regular.ttf"/>
       <file href="captions/smp52-v-exits.ar.vtt"/>
       <file href="captions/smp52-v-exits.en.vtt"/>
       <file href="captions/smp52-v-hook.ar.vtt"/>
@@ -65,6 +65,7 @@
       <file href="icons/fluent-3d-no-entry.png"/>
       <file href="icons/fluent-3d-oil-drum.png"/>
       <file href="icons/fluent-3d-package.png"/>
+      <file href="icons/fluent-3d-page-facing-up.png"/>
       <file href="icons/fluent-3d-police-car-light.png"/>
       <file href="icons/fluent-3d-prohibited.png"/>
       <file href="icons/fluent-3d-rescue-workers-helmet.png"/>
@@ -128,7 +129,7 @@
       <file href="video/smp52-v-recap.mp4"/>
       <file href="video/smp52-v-story.mp4"/>
       <file href="video/smp52-v-triangle.mp4"/>
-      <file href="aids/smp52-fire-safety-job-aids.pdf"/>
+      <file href="aids/SMP5.2-Fire-safety-hazards-and-raising-the-alarm-job-aids.pdf"/>
     </resource>
   </resources>
 </manifest>
